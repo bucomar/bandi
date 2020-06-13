@@ -1,0 +1,1 @@
+print('Hello! A nevem Kuka... Bnadi a Kuka!')
