@@ -1,4 +1,4 @@
-# Bandi első python programja
+# Bandi első python programja. Minden jog fenntartva.
 
 kalandozok = ':-) ;-) :-{'
 hullam = ' _/""\_ '

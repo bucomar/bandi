@@ -1,4 +1,4 @@
-# Mondatba foglalos - Bandi 2. programja
+# Mondatba foglalos - Bandi 2. programja. Minden jog fenntartva.
 
 i = 1
 
